@@ -35,6 +35,7 @@ class _ArtGalleryState() extends State<ArtGallery> {
     Artwork(imagePath: 'assets/images/the_girl_with_a_pearl_earring.webp', title: 'The Girl with a Pearl Earring', artist: 'Johannes Vermeer, van Delft'),
     Artwork(imagePath: 'assets/images/the_scream.webp', title: 'The Scream', artist: 'Edvard Munch'),
     Artwork(imagePath: 'assets/images/the_wanderer_above_a_sea_of_mist.webp', title: 'The Wanderer Above a Sea of Mist', artist: 'Caspar David Friedrich'),
+    Artwork(imagePath: 'assets/images/water_lily_pond.webp', title: 'Water Lily Pond', artist: 'Claude Monet'),
   ];
 
   int _currentIndex = 0;
